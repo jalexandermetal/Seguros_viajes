@@ -23,7 +23,7 @@
             <input type="text" placeholder="Nombre" name="nombre"></br>
             <input type="number" placeholder="Documento" name="documento"></br>
             <input type="email" placeholder="Correo" name="email"></br>
-            <input type="tel" placeholder="Telefono o movil" name"Telefono"></br>
+            <input type="tel" placeholder="Telefono o movil" name="Telefono"></br>
             <input type="submit" placeholder="Enviar">
             <input type="reset">
         </fieldset>
